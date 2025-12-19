@@ -40,13 +40,13 @@ By completing this project, learners will understand:
 ---
 
 ## 📁 Project Structure
-
+```
 community_event_finder/
 ├── app.py          # Main Flask application
 ├── events.json     # Data storage for events
 └── templates/
     └── index.html  # Frontend HTML template
-
+```
 
 ## 1️⃣ Install Requirements
 
