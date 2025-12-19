@@ -41,3 +41,36 @@ By completing this project, learners will understand:
 
 ## 📁 Project Structure
 
+community_event_finder/
+├── app.py # Main Flask application
+├── events.json # Data storage for events
+└── templates/
+└── index.html # Frontend HTML template
+
+
+---
+
+## 1️⃣ Install Requirements
+
+Make sure **Python 3.9 or higher** is installed on your machine.
+
+Install Flask:
+
+```bash
+pip install flask
+
+```
+
+## 2️⃣ Run the Application
+From inside the community_event_finder folder using terminal, run:
+```bash
+
+python app.py
+
+```
+You should see output similar to:
+```bash
+Running on http://127.0.0.1:5000
+
+```
+Copy and paste the following link into your browser: http://127.0.0.1:5000
